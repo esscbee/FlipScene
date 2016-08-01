@@ -17,6 +17,7 @@
 		D64400821D4FB3BC003063ED /* FlipSceneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D64400811D4FB3BC003063ED /* FlipSceneTests.swift */; };
 		D644008D1D4FB3BC003063ED /* FlipSceneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D644008C1D4FB3BC003063ED /* FlipSceneUITests.swift */; };
 		D644009B1D4FB3E5003063ED /* Flipper.sks in Resources */ = {isa = PBXBuildFile; fileRef = D644009A1D4FB3E5003063ED /* Flipper.sks */; };
+		D644009D1D4FBA2C003063ED /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = D644009C1D4FBA2C003063ED /* Actions.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		D644008C1D4FB3BC003063ED /* FlipSceneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlipSceneUITests.swift; sourceTree = "<group>"; };
 		D644008E1D4FB3BC003063ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D644009A1D4FB3E5003063ED /* Flipper.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Flipper.sks; sourceTree = "<group>"; };
+		D644009C1D4FBA2C003063ED /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				D644006A1D4FB3BC003063ED /* GameScene.sks */,
 				D644009A1D4FB3E5003063ED /* Flipper.sks */,
 				D644006C1D4FB3BC003063ED /* GameScene.swift */,
+				D644009C1D4FBA2C003063ED /* Actions.sks */,
 				D644006E1D4FB3BC003063ED /* GameViewController.swift */,
 				D64400701D4FB3BC003063ED /* Main.storyboard */,
 				D64400731D4FB3BC003063ED /* Assets.xcassets */,
@@ -239,6 +242,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D644006B1D4FB3BC003063ED /* GameScene.sks in Resources */,
+				D644009D1D4FBA2C003063ED /* Actions.sks in Resources */,
 				D64400771D4FB3BC003063ED /* LaunchScreen.storyboard in Resources */,
 				D644009B1D4FB3E5003063ED /* Flipper.sks in Resources */,
 				D64400741D4FB3BC003063ED /* Assets.xcassets in Resources */,
